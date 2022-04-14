@@ -4,22 +4,26 @@
 
 <h3> 👨🏻‍💻 &nbsp;Acerca de mí </h3>
 
-- 🤔 &nbsp; Buscando la eficiencia de los sitios web.
+- 🤔 &nbsp; Buscando el primer trabajo en IT.
 - 🎓 &nbsp; Estudiando tecnicatura en computación en la Escuela Superior de Comercio UNS.
 - 🌱 &nbsp; Aprendiendo más sobre el desarrollo frontend.
 
-<h3> 🛠 &nbsp;Tecnologíask</h3>
+<h3> 🛠 &nbsp;Tecnologías</h3>
 
-- 💻 &nbsp;
 - 🌐
   ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
   ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
   ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
   ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
+  ![Php](https://img.shields.io/badge/-PHP-333333?style=flat&logo=php)
   ![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap&logoColor=563D7C)
+- 💻 
+  ![C#](https://img.shields.io/badge/-CSharp-333333?style=flat&logo=csharp)
+  ![VisualBasic](https://img.shields.io/badge/-VisualBasic-333333?style=flat&logo=dotnet)
+  &nbsp;
 - 🛢 &nbsp;
   ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
-  ![SqlServer](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
+  ![SqlServer](https://img.shields.io/badge/-SQLServer-333333?style=flat&logo=microsoftsqlserver)
 - ⚙️ &nbsp;
   ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
   ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
