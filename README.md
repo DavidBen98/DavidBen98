@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Aditya%20Vikram%20Singh%20Banner.png">
+![1647099956712](https://user-images.githubusercontent.com/81384853/163469975-9f2f6e7e-917c-46af-9daf-53c41c7c4362.jpg)
 
 <h2> Hola! Soy David.</h2>
 
