@@ -43,6 +43,6 @@
 
 <p align="center">
 <a href="https://davidbenedette.vercel.app//"><img alt="Website" src="https://img.shields.io/badge/Website-www.davidbenedette.vercel.app-blue?style=flat-square&logo=google-chrome"></a>
-<a href="https://www.linkedin.com/in/DavidBenedette/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-David%20Benedette%20Singh-blue?style=flat-square&logo=linkedin"></a>
+<a href="https://www.linkedin.com/in/david-benedette/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-David%20Benedette-blue?style=flat-square&logo=linkedin"></a>
 <a href="mailto:davidbenedette@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-davidbenedette@gmail.com-blue?style=flat-square&logo=gmail"></a>
 </p>
