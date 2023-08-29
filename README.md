@@ -5,7 +5,7 @@
 <h3> 👨🏻‍💻 &nbsp;Acerca de mí </h3>
 
 - 🤔 &nbsp; Buscando el primer trabajo en IT.
-- 🎓 &nbsp; Estudiando tecnicatura en computación en la Escuela Superior de Comercio UNS.
+- 🎓 &nbsp; Técnico en computación en la Escuela Superior de Comercio UNS.
 - 🌱 &nbsp; Aprendiendo más sobre el desarrollo frontend.
 
 <h3> 🛠 &nbsp;Tecnologías</h3>
